@@ -23,5 +23,18 @@ A Java-based Employee Management System using Hibernate ORM for seamless databas
 2. Install **MySQL Database**.
 3. Configure **Hibernate** with `hibernate.cfg.xml`.
 
-![image](https://github.com/user-attachments/assets/3136dfe3-d262-4c59-a8b7-87a394a05983)
+![image](https://github.com/user-attachments/assets/2cf1fc7c-1c4d-4606-b9cb-3c697e9cfc8a)
+
+ ![image](https://github.com/user-attachments/assets/1a6bdb0a-8572-4aa5-928b-bf706f2d1f80)
+
+
+![image](https://github.com/user-attachments/assets/4f00f90e-75ca-4743-85a6-8f2d83b481a8)
+
+![image](https://github.com/user-attachments/assets/6637f7ec-f6fb-4178-b971-899a4e10d252)
+
+![image](https://github.com/user-attachments/assets/fa6a90b1-8725-4e97-abc0-28d31ce80ab1)
+
+
+
+
 
